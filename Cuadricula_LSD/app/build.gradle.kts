@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.davidlopez.cuadricula_lsd"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.davidlopez.cuadricula_lsd"
