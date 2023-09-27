@@ -4,7 +4,7 @@ import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 
 data class Hero(
-    @StringRes val superheroeName:Int,
-    @StringRes val description:Int,
-    @DrawableRes val image:Int
+    @StringRes val nameRes:Int,
+    @StringRes val descriptionRes:Int,
+    @DrawableRes val imageRes:Int
 )
