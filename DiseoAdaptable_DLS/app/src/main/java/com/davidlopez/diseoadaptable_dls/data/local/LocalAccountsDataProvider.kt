@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package .data.local
+package com.davidlopez.diseoadaptable_dls.data.local
 
 import com.davidlopez.diseoadaptable_dls.R
 import com.davidlopez.diseoadaptable_dls.data.Account
